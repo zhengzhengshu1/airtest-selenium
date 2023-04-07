@@ -1,2 +1,2 @@
 airtest
-selenium
+selenium>=4
